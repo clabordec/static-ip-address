@@ -16,6 +16,10 @@ This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 
 - Windows Server 2022
 
+
+<br>
+
+
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Open the Control Panel
@@ -33,6 +37,10 @@ This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 - Input the following DNS servers:
       - Preferred DNS server: 8.8.8.8
       - Alternative DNS server: 127.0.0.1
+
+
+<br>
+
 
 <h2>Deployment and Configuration Steps</h2>
 
