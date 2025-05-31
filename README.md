@@ -78,9 +78,19 @@ This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 </p>
 <p>
 
-### Verify the changes by right clicking on the Windows Start Menu, then click on System
+### Double-click the `Interent Protocol version 4 (TCP/IPv4)` option to set an IP address for the network
 <p>
-<img src="https://github.com/user-attachments/assets/9faf7510-3e66-4353-aa2d-79ef2c0d58e0" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/79ea004c-54aa-4d20-8e8f-b120418e1c78" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Input the following settings then click Ok
+<p>
+<img src="https://github.com/user-attachments/assets/8ec3eaa7-10fc-45bb-a54f-ba147b296c3c" width="550" alt="Disk Sanitization Steps"/>
+</p>
+
+### Check that the settings have been saved via command line
+<p>
+<img src="https://github.com/user-attachments/assets/efb295a7-1cdf-4b7c-ab04-61ccbd4d67d9" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
 ---
