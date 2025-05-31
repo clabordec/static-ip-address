@@ -4,7 +4,7 @@
 
 
 
-<h1>Changing the name of the Computer</h1>
+<h1>Static IP Address</h1>
 This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 
 
@@ -15,16 +15,24 @@ This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
-- Windows 10 Pro
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Right click on the Windows start menu
-- Click `System`
-- Click `Rename this PC(advanced)`
-- Under the `Computer Name` tab, click on `Change`
-- Give the following name to the computer:
-    - Server2022
+- Open the Control Panel
+- Change the `View by` setting to `Large icons`
+- Navigate to `Network and Sharing Center`
+- Click on `Change adapter settings`
+- Choose the network that needs the static IP addres:
+      - Ethernet0
+- Clic on `Properties`
+- Select Internet Protocol Version 4 (TCP/IPv4)
+- Input the IP as the following:
+      - IP Address: 10.0.10.2
+      - Subnet Mask: 255.0.0.0
+      - Default Gateway: 10.0.10.1
+- Input the following DNS servers:
+      - Preferred DNS server: 8.8.8.8
+      - Alternative DNS server: 127.0.0.1
 
 <h2>Deployment and Configuration Steps</h2>
 
