@@ -52,40 +52,31 @@ This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 <h2>Deployment and Configuration Steps</h2>
 
 ## Rename the PC to Server2022
-### Rigth-click on the Windows Start Menu, then click System
+### Click on the Windows Start menu, then type `Control Panel`, press Enter
 <p>
-<img src="https://github.com/user-attachments/assets/5da7e367-296d-455e-a5ec-3fa5a9b75862" width="350" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/2a62857d-8997-42d4-90a6-d22163a4666f" width="350" alt="Disk Sanitization Steps"/>
 </p>
 
-### Scroll down then click on Rename this PC (advanced)
+### Inside of the Control Panel, view the icons as `Large icons` then click on `Network and Sharing Center`
 <p>
-<img src="https://github.com/user-attachments/assets/0d942ec3-7665-4d27-99d4-47fa9dc3b4eb" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/3d5f736d-0a80-4d4e-8035-c4b938a22e9d" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### In the Computer Name tab, click on Change to change the name of the PC
+### Go to `Change adapter setings`
 <p>
-<img src="https://github.com/user-attachments/assets/3c59a574-5d4a-4a1c-9ea4-069861b38792" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/c455b7bf-bfa9-4b71-9328-13cf5bcedabe" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-### Change the computer name to `Server2022`
+### Double-click on the network device
 <p>
-<img src="https://github.com/user-attachments/assets/7a1cc4a2-3c36-42ad-9239-68c2fc315ac6" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/1cabbbff-7fcb-4965-bd36-791b39084a01" width="550" alt="Disk Sanitization Steps"/>
 </p>
 
-
-### Apply the settings then restart the machine, the restart will be automatic
+### Click on `Properties`
 <p>
-<img src="https://github.com/user-attachments/assets/ca742237-953d-4741-b3b8-3361b0fc6a2e" width="550" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/06469c76-0be5-48d3-9a7a-db40f1f223be" width="550" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://github.com/user-attachments/assets/f99a8f4b-7720-4f2c-b33d-5a566837a2b4" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/21d216f0-4ade-4000-af45-d43a30a7ab56" width="550" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-<img src="https://github.com/user-attachments/assets/07315b1f-73c6-4b02-8c34-e77eab055d34" width="550" alt="Disk Sanitization Steps"/>
-</p>
 
 ### Verify the changes by right clicking on the Windows Start Menu, then click on System
 <p>
