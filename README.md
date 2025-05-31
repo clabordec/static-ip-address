@@ -34,16 +34,16 @@ This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 - Navigate to `Network and Sharing Center`
 - Click on `Change adapter settings`
 - Choose the network that needs the static IP addres:
-      - Ethernet0
+  - Ethernet0
 - Clic on `Properties`
 - Select Internet Protocol Version 4 (TCP/IPv4)
 - Input the IP as the following:
-      - IP Address: 10.0.10.2
-      - Subnet Mask: 255.0.0.0
-      - Default Gateway: 10.0.10.1
+  - IP Address: 10.0.10.2
+  - Subnet Mask: 255.0.0.0
+  - Default Gateway: 10.0.10.1
 - Input the following DNS servers:
-      - Preferred DNS server: 8.8.8.8
-      - Alternative DNS server: 127.0.0.1
+  - Preferred DNS server: 8.8.8.8
+  - Alternative DNS server: 127.0.0.1
 
 
 <br>
