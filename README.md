@@ -8,9 +8,16 @@
 This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 
 
+<br>
+
+
 <h2>Environments and Technologies Used</h2>
 
 - VMware Workstation Pro (Virtual Machines/Compute)
+
+
+<br>
+
 
 <h2>Operating Systems Used </h2>
 
