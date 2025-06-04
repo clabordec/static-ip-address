@@ -7,28 +7,13 @@
 <h1>Static IP Address</h1>
 This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 
-
-<br>
-
-
 <h2>Environments and Technologies Used</h2>
-
 - VMware Workstation Pro (Virtual Machines/Compute)
 
-
-<br>
-
-
 <h2>Operating Systems Used </h2>
-
 - Windows Server 2022
 
-
-<br>
-
-
 <h2>High-Level Deployment and Configuration Steps</h2>
-
 - Open the Control Panel
 - Change the `View by` setting to `Large icons`
 - Navigate to `Network and Sharing Center`
