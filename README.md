@@ -38,7 +38,7 @@ This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 <br>
 
 
-<h2>Deployment and Configuration Steps</h2>
+<h1>Actions and Observations</h1>
 
 ## Rename the PC to Server2022
 ### Click on the Windows Start menu, then type `Control Panel`, press Enter
