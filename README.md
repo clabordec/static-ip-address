@@ -24,8 +24,8 @@ This project outlines changing the Domain's IP address from DHCP to Staic.<br />
 - Click on `Change adapter settings`
 - Choose the network that needs the static IP addres:
   - Ethernet0
-- Clic on `Properties`
-- Select Internet Protocol Version 4 (TCP/IPv4)
+- View and edit the device by going into `Properties` 
+- Select `Internet Protocol Version 4 (TCP/IPv4)`
 - Input the IP as the following:
   - IP Address: 10.0.10.2
   - Subnet Mask: 255.0.0.0
